@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarnemes
-- 👀 I’m interested in learning programing skills and doing small projects
+- 👀 I’m implementing contract management Systems with codeigniter 4 php framework
 - 🌱 I’m currently learning CodeIgniter framework 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
